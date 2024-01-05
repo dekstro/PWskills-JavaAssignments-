@@ -1,0 +1,5 @@
+Can the same method name be used for different methods without any conflict?
+
+Answer-
+
+Two methods can have the same name, but the number of parameters should be different. If they both have the same parameters, then there is at least one position, where the parameter types should differ.

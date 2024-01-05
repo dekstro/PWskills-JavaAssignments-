@@ -1,0 +1,2 @@
+A method may be called more than once from any other method- TRUE
+It is necessary for a method to return some value-           FALSE
