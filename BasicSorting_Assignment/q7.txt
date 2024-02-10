@@ -1,0 +1,4 @@
+Which of the following examples represent the worst case input for an insertion sort?
+
+Ans
+array sorted in reverse order

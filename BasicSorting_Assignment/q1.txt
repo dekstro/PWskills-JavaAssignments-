@@ -1,0 +1,5 @@
+Q) Which of the following(s) is/are true about bubble sort:
+
+Ans
+1. It is a stable sort
+4. After each iteration, the greatest element is placed at the end of the array

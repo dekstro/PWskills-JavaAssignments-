@@ -1,0 +1,4 @@
+ In which case does bubble sort works in the most efficient way
+
+Ans
+When the array is sorted in increasing order.

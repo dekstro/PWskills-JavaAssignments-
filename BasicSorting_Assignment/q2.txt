@@ -1,0 +1,4 @@
+What will the following array look like after one iteration of bubble sort [1,6,2,5,4,3].
+
+Ans
+3. [1,2,5,4,3,6]
