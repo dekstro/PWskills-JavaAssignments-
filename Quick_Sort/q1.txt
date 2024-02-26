@@ -1,0 +1,4 @@
+Which of the following sorting algorithms is used along quicksort to sort the sub arrays?
+
+Ans
+c. Insertion sort
